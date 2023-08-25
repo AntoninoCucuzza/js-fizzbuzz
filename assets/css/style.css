@@ -1,0 +1,37 @@
+:root{
+    --bg-main: #083b4c ; 
+    --n-bg: #1389b2 ;
+    --fizz-bg: #0cd6a1 ;
+    --buzz-bg: #ffd166 ;
+    --fizzbuzz-bg: #f0466f ;
+}
+
+
+.main_bg{
+    background-color: var(--bg-main);
+}
+
+.n_bg{
+    background-color: var(--n-bg);
+}
+
+.fizz_bg{
+    background-color: var(--fizz-bg);
+}
+
+.buzz_bg{
+    background-color: var(--buzz-bg);
+}
+
+.fizzbuzz_bg{
+    background-color: var(--fizzbuzz-bg);
+}
+
+.font_size_big{
+    font-size: 5rem;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+}
